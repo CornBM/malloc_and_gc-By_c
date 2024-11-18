@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/corn/system_code/malloc/build/1.malloc",
+  "command": "/usr/bin/gcc  -I/home/corn/system_code/malloc/1.malloc/inc -I/home/corn/system_code/malloc/1.malloc/test -g -o CMakeFiles/1.malloc.dir/src/malloc.c.o -c /home/corn/system_code/malloc/1.malloc/src/malloc.c",
+  "file": "/home/corn/system_code/malloc/1.malloc/src/malloc.c"
+},
+{
+  "directory": "/home/corn/system_code/malloc/build/1.malloc",
+  "command": "/usr/bin/gcc  -I/home/corn/system_code/malloc/1.malloc/inc -I/home/corn/system_code/malloc/1.malloc/test -g -o CMakeFiles/1.malloc.dir/test/main.c.o -c /home/corn/system_code/malloc/1.malloc/test/main.c",
+  "file": "/home/corn/system_code/malloc/1.malloc/test/main.c"
+},
+{
+  "directory": "/home/corn/system_code/malloc/build/1.malloc",
+  "command": "/usr/bin/gcc  -I/home/corn/system_code/malloc/1.malloc/inc -I/home/corn/system_code/malloc/1.malloc/test -g -o CMakeFiles/malloc.dir/src/malloc.c.o -c /home/corn/system_code/malloc/1.malloc/src/malloc.c",
+  "file": "/home/corn/system_code/malloc/1.malloc/src/malloc.c"
+},
+{
+  "directory": "/home/corn/system_code/malloc/build/2.gc_malloc",
+  "command": "/usr/bin/gcc  -I/home/corn/system_code/malloc/2.gc_malloc/inc -I/home/corn/system_code/malloc/2.gc_malloc/test -g -o CMakeFiles/2.gc_malloc.dir/src/gc_malloc.c.o -c /home/corn/system_code/malloc/2.gc_malloc/src/gc_malloc.c",
+  "file": "/home/corn/system_code/malloc/2.gc_malloc/src/gc_malloc.c"
+},
+{
+  "directory": "/home/corn/system_code/malloc/build/2.gc_malloc",
+  "command": "/usr/bin/gcc  -I/home/corn/system_code/malloc/2.gc_malloc/inc -I/home/corn/system_code/malloc/2.gc_malloc/test -g -o CMakeFiles/2.gc_malloc.dir/test/main.c.o -c /home/corn/system_code/malloc/2.gc_malloc/test/main.c",
+  "file": "/home/corn/system_code/malloc/2.gc_malloc/test/main.c"
+},
+{
+  "directory": "/home/corn/system_code/malloc/build/2.gc_malloc",
+  "command": "/usr/bin/gcc  -I/home/corn/system_code/malloc/2.gc_malloc/inc -I/home/corn/system_code/malloc/2.gc_malloc/test -g -o CMakeFiles/gc_malloc.dir/src/gc_malloc.c.o -c /home/corn/system_code/malloc/2.gc_malloc/src/gc_malloc.c",
+  "file": "/home/corn/system_code/malloc/2.gc_malloc/src/gc_malloc.c"
+}
+]

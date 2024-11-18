@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgc_malloc.a CMakeFiles/gc_malloc.dir/src/gc_malloc.c.o
+/usr/bin/ranlib libgc_malloc.a

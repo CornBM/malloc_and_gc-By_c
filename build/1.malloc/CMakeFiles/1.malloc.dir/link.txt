@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/1.malloc.dir/src/malloc.c.o CMakeFiles/1.malloc.dir/test/main.c.o -o ../../1.malloc/out/1.malloc 

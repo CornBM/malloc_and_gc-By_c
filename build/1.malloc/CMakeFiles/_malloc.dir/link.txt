@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib_malloc.a CMakeFiles/_malloc.dir/src/malloc.c.o
+/usr/bin/ranlib lib_malloc.a

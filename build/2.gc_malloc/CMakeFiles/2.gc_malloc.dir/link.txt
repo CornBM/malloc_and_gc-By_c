@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/2.gc_malloc.dir/src/gc_malloc.c.o CMakeFiles/2.gc_malloc.dir/test/main.c.o -o ../../2.gc_malloc/out/2.gc_malloc   -L/home/corn/system_code/malloc/2.gc_malloc/lib  -Wl,-rpath,/home/corn/system_code/malloc/2.gc_malloc/lib ../1.malloc/libmalloc.a 

@@ -1,0 +1,119 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "1.malloc",
+					"jsonFile" : "directory-1.malloc-Debug-378a7d9895d79b0b2a1b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "1.malloc",
+					"targetIndexes" : 
+					[
+						0,
+						3
+					]
+				},
+				{
+					"build" : "2.gc_malloc",
+					"jsonFile" : "directory-2.gc_malloc-Debug-0e53bafae587e0e1e8e0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "2.gc_malloc",
+					"targetIndexes" : 
+					[
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "malloc",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "1.malloc::@e0384eee80234cef8727",
+					"jsonFile" : "target-1.malloc-Debug-a47d9d53d8b9ee3c9071.json",
+					"name" : "1.malloc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "2.gc_malloc::@6f4eaaccb38bd3fd58c6",
+					"jsonFile" : "target-2.gc_malloc-Debug-2c970d3279668140e17d.json",
+					"name" : "2.gc_malloc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gc_malloc::@6f4eaaccb38bd3fd58c6",
+					"jsonFile" : "target-gc_malloc-Debug-73cba3caaaa8ca0cff36.json",
+					"name" : "gc_malloc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "malloc::@e0384eee80234cef8727",
+					"jsonFile" : "target-malloc-Debug-cc4506ce224bb15d2673.json",
+					"name" : "malloc",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/corn/system_code/malloc/build",
+		"source" : "/home/corn/system_code/malloc"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

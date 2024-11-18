@@ -1,0 +1,10 @@
+/home/corn/system_code/malloc/build/CMakeFiles/edit_cache.dir
+/home/corn/system_code/malloc/build/CMakeFiles/rebuild_cache.dir
+/home/corn/system_code/malloc/build/1.malloc/CMakeFiles/1.malloc.dir
+/home/corn/system_code/malloc/build/1.malloc/CMakeFiles/malloc.dir
+/home/corn/system_code/malloc/build/1.malloc/CMakeFiles/edit_cache.dir
+/home/corn/system_code/malloc/build/1.malloc/CMakeFiles/rebuild_cache.dir
+/home/corn/system_code/malloc/build/2.gc_malloc/CMakeFiles/2.gc_malloc.dir
+/home/corn/system_code/malloc/build/2.gc_malloc/CMakeFiles/gc_malloc.dir
+/home/corn/system_code/malloc/build/2.gc_malloc/CMakeFiles/edit_cache.dir
+/home/corn/system_code/malloc/build/2.gc_malloc/CMakeFiles/rebuild_cache.dir
